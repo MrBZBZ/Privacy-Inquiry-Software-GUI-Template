@@ -18,3 +18,6 @@
 ### 😃用wxpython写的GUI，requests是著名的网络库不必多说，pyperclip用来复制内容到剪贴板
 * 运行kaihu_release.py文件即可，如果出现GUI则代表运行成功
 ![GUI](GUI.jpg "GUI图片")
+# 关于代码
+* 已经经过的轻度混淆处理
+* 软件不发Release，自己编译去
