@@ -10,7 +10,7 @@
    ```
 * 2.设置 Python 环境：确保您具有版本 3.9 或更高版本的 Python 环境。
 * 3.在PyCharm打开刚刚下载的存储库
-* 4.安装依赖项，在终端输入：
+* 4.安装依赖项，在终端依次输入：
   ```
   pip install wxpython
   pip install requests
