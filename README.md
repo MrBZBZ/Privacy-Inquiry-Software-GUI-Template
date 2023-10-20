@@ -15,6 +15,6 @@
   pip install requests
   pip install pyperclip
   ```
-😃用wxpython写的GUI，requests是著名的网络库不必多说，pyperclip用来复制内容到剪贴板
+# 😃用wxpython写的GUI，requests是著名的网络库不必多说，pyperclip用来复制内容到剪贴板
 * 运行kaihu_release.py文件即可，如果出现GUI则代表运行成功
 ![GUI](GUI.jpg "GUI图片")
